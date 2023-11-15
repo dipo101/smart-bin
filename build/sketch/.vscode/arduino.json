@@ -1,0 +1,6 @@
+#line 1 "/Users/ladidisu/robotics/smart-bin/.vscode/arduino.json"
+{
+    "sketch": "smart-bin.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}
