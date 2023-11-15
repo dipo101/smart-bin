@@ -43,6 +43,7 @@ Ensure you have the following:
 - **Non-contact Detection**: To ensure hygiene, the dustbin is designed to operate without the need for physical contact.
 - **Power Efficiency**: The servo motor detaches when not in use to conserve energy.
 - **Customizable Distance**: The sensing range can be adjusted in the code based on the specific application needs.
+- **Opens as long as needed**: Most algorithms only open the bin for a fixed duration. This opens the bin for as long as an object is detected in front of it.
 
 ## How Ultrasonic Sensors Work
 
