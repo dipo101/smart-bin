@@ -55,5 +55,4 @@ Ladi Disu
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Acknowledgment 1]
-* [Acknowledgment 2]
+*  TODO(dipo101)
